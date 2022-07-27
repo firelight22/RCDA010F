@@ -16,3 +16,5 @@ rootProject.name = "CoursAndroid"
 include ':app'
 include ':tpquestionnaire'
 include ':moyennedesnotes'
+include ':ihm'
+include ':tprandomgenerator'

@@ -3,7 +3,9 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.7">
       <module name="CoursAndroid.app" target="11" />
+      <module name="CoursAndroid.ihm" target="11" />
       <module name="CoursAndroid.tpquestionnaire" target="11" />
+      <module name="CoursAndroid.tprandomgenerator" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

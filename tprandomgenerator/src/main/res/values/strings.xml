@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tpRandomGenerator</string>
+    <string name="title_generator">True Random Number Generator</string>
+</resources>

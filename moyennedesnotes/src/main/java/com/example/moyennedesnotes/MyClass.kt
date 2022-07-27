@@ -1,5 +1,7 @@
 package com.example.moyennedesnotes
 
-fun main() {
-    //
+
+
+fun main(args: Array<String>) {
+    var test = readLine()?.toInt()
 }
