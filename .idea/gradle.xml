@@ -10,10 +10,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/databinding" />
             <option value="$PROJECT_DIR$/ihm" />
             <option value="$PROJECT_DIR$/moyennedesnotes" />
+            <option value="$PROJECT_DIR$/navigationapi" />
+            <option value="$PROJECT_DIR$/tpcolorme" />
             <option value="$PROJECT_DIR$/tpquestionnaire" />
             <option value="$PROJECT_DIR$/tprandomgenerator" />
+            <option value="$PROJECT_DIR$/tpvraioufaux" />
           </set>
         </option>
       </GradleProjectSettings>
