@@ -6,6 +6,7 @@
       <module name="CoursAndroid.databinding" target="11" />
       <module name="CoursAndroid.ihm" target="11" />
       <module name="CoursAndroid.navigationapi" target="11" />
+      <module name="CoursAndroid.safeargs" target="11" />
       <module name="CoursAndroid.tpcolorme" target="11" />
       <module name="CoursAndroid.tpquestionnaire" target="11" />
       <module name="CoursAndroid.tprandomgenerator" target="11" />
