@@ -29,6 +29,7 @@ class MainActivity : AppCompatActivity() {
             Uri.parse("tel:0123456578")
         )
         startActivity(intentImplTel)
+
     }
 
     override fun onRequestPermissionsResult(
