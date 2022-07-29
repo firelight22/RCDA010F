@@ -9,6 +9,9 @@
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/databinding/src/main/res/layout/activity_main.xml" value="0.67" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/ihm/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/intentexpl/src/main/res/layout/activity_main.xml" value="0.22828282828282828" />
+        <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/menuappbar/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1315" />
+        <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/menuappbar/src/main/res/menu/menu_main.xml" value="0.5" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/navigationapi/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/navigationapi/src/main/res/layout/fragment_display.xml" value="0.22962962962962963" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/navigationapi/src/main/res/layout/fragment_form.xml" value="0.33" />
@@ -23,6 +26,9 @@
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/tpcolorme/src/main/res/layout/fragment_pink.xml" value="0.25" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/tpcolorme/src/main/res/layout/fragment_red.xml" value="0.22" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/tpcolorme/src/main/res/layout/fragment_yellow.xml" value="0.1" />
+        <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/tphistoire/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/tphistoire/src/main/res/layout/fragment_display.xml" value="0.2328125" />
+        <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/tphistoire/src/main/res/layout/fragment_form.xml" value="0.2328125" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/tpquestionnaire/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/tprandomgenerator/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/tpvraioufaux/src/main/res/layout/activity_main.xml" value="0.3046875" />

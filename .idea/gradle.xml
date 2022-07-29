@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -12,10 +13,14 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/databinding" />
             <option value="$PROJECT_DIR$/ihm" />
+            <option value="$PROJECT_DIR$/intentexpl" />
+            <option value="$PROJECT_DIR$/intentimpl" />
+            <option value="$PROJECT_DIR$/menuappbar" />
             <option value="$PROJECT_DIR$/moyennedesnotes" />
             <option value="$PROJECT_DIR$/navigationapi" />
             <option value="$PROJECT_DIR$/safeargs" />
             <option value="$PROJECT_DIR$/tpcolorme" />
+            <option value="$PROJECT_DIR$/tphistoire" />
             <option value="$PROJECT_DIR$/tpquestionnaire" />
             <option value="$PROJECT_DIR$/tprandomgenerator" />
             <option value="$PROJECT_DIR$/tpvraioufaux" />

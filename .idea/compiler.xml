@@ -5,9 +5,13 @@
       <module name="CoursAndroid.app" target="11" />
       <module name="CoursAndroid.databinding" target="11" />
       <module name="CoursAndroid.ihm" target="11" />
+      <module name="CoursAndroid.intentexpl" target="11" />
+      <module name="CoursAndroid.intentimpl" target="11" />
+      <module name="CoursAndroid.menuappbar" target="11" />
       <module name="CoursAndroid.navigationapi" target="11" />
       <module name="CoursAndroid.safeargs" target="11" />
       <module name="CoursAndroid.tpcolorme" target="11" />
+      <module name="CoursAndroid.tphistoire" target="11" />
       <module name="CoursAndroid.tpquestionnaire" target="11" />
       <module name="CoursAndroid.tprandomgenerator" target="11" />
       <module name="CoursAndroid.tpvraioufaux" target="11" />
