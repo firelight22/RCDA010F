@@ -11,16 +11,19 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/compteur" />
             <option value="$PROJECT_DIR$/databinding" />
             <option value="$PROJECT_DIR$/ihm" />
             <option value="$PROJECT_DIR$/intentexpl" />
             <option value="$PROJECT_DIR$/intentimpl" />
+            <option value="$PROJECT_DIR$/lifecycle" />
             <option value="$PROJECT_DIR$/menuappbar" />
             <option value="$PROJECT_DIR$/moyennedesnotes" />
             <option value="$PROJECT_DIR$/navigationapi" />
             <option value="$PROJECT_DIR$/safeargs" />
             <option value="$PROJECT_DIR$/tpcolorme" />
             <option value="$PROJECT_DIR$/tphistoire" />
+            <option value="$PROJECT_DIR$/tplancerde" />
             <option value="$PROJECT_DIR$/tpnemoubliepas" />
             <option value="$PROJECT_DIR$/tpquestionnaire" />
             <option value="$PROJECT_DIR$/tprandomgenerator" />
