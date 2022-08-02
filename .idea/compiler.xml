@@ -12,6 +12,8 @@
       <module name="CoursAndroid.lifecycle" target="11" />
       <module name="CoursAndroid.menuappbar" target="11" />
       <module name="CoursAndroid.navigationapi" target="11" />
+      <module name="CoursAndroid.recylerview" target="11" />
+      <module name="CoursAndroid.room" target="11" />
       <module name="CoursAndroid.safeargs" target="11" />
       <module name="CoursAndroid.tpcolorme" target="11" />
       <module name="CoursAndroid.tphistoire" target="11" />
