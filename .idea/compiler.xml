@@ -4,6 +4,7 @@
     <bytecodeTargetLevel target="1.7">
       <module name="CoursAndroid.app" target="11" />
       <module name="CoursAndroid.compteur" target="11" />
+      <module name="CoursAndroid.cookieclicker" target="11" />
       <module name="CoursAndroid.databinding" target="11" />
       <module name="CoursAndroid.ihm" target="11" />
       <module name="CoursAndroid.intentexpl" target="11" />

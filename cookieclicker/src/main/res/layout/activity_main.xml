@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="cookies"
+            type="Float" />
+        <variable
+            name="coeff"
+            type="Float" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+
+        <ImageButton
+            android:id="@+id/imageButtonCookie"
+            android:layout_width="350dp"
+            android:layout_height="350dp"
+            android:layout_marginTop="64dp"
+            android:background="@android:color/transparent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/microsoftteams_image" />
+
+        <TextView
+            android:id="@+id/textViewCoefficient"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text="@{`Coeff : `+ String.valueOf(coeff)}"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textViewCoookiesNum" />
+
+        <TextView
+            android:id="@+id/textViewCoookiesNum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@{`Cookies : `+ String.valueOf(Integer.valueOf(cookies))}"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/buttonGrandMere"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Grand Mère 25"
+            app:layout_constraintEnd_toStartOf="@+id/buttonUsine"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageButtonCookie" />
+
+        <Button
+            android:id="@+id/buttonUsine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Usine 100"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/buttonGrandMere"
+            app:layout_constraintTop_toBottomOf="@+id/imageButtonCookie" />
+
+        <Button
+            android:id="@+id/buttonMine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Mine 500"
+            app:layout_constraintEnd_toStartOf="@+id/buttonLaboratoire"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/buttonGrandMere" />
+
+        <Button
+            android:id="@+id/buttonLaboratoire"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Laboratoire 1000"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/buttonMine"
+            app:layout_constraintTop_toBottomOf="@+id/buttonUsine" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
