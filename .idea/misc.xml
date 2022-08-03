@@ -18,6 +18,7 @@
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/navigationapi/src/main/res/layout/fragment_display.xml" value="0.22962962962962963" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/navigationapi/src/main/res/layout/fragment_form.xml" value="0.33" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/recylerview/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/recylerview/src/main/res/layout/mon_layout_card_view.xml" value="0.1" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/recylerview/src/main/res/layout/row_layout_velo.xml" value="0.5" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/room/src/main/res/layout/activity_main.xml" value="0.75" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/safeargs/src/main/res/layout/activity_main.xml" value="0.2212962962962963" />
@@ -38,6 +39,8 @@
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/tpnemoubliepas/src/main/res/layout/activity_main.xml" value="0.3046875" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/tpquestionnaire/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/tprandomgenerator/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/tprecyclerviewdog/src/main/res/layout/activity_main.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/tprecyclerviewdog/src/main/res/layout/row_layout_dog.xml" value="0.5" />
         <entry key="..\:/Users/qrouet/AndroidStudioProjects/CoursAndroid/tpvraioufaux/src/main/res/layout/activity_main.xml" value="0.3046875" />
       </map>
     </option>

@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
             Velo("Peugeot Cycle","PeugeotBike",8,120.0f,false,"https://www.vanmoof.com/sites/default/files/2021-04/D_S3Dark_1_0.jpg"),
             Velo("Angell","Angell",4,2900.0f,true,"https://www.vanmoof.com/sites/default/files/2021-04/D_S3Dark_1_0.jpg"),
         )
-        val adapter = VeloAdapter(arrayListVelo, VeloAdapter.OnVeloClickListener {
+        val adapter = VeloAdapter(arrayListVelo,  {
             Toast.makeText(this,
                 "Le vélo clické est $it", Toast.LENGTH_SHORT).show()
         })

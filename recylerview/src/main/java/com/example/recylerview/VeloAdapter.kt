@@ -7,7 +7,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.recylerview.databinding.RowLayoutVeloBinding
 import com.squareup.picasso.Picasso
 
-class VeloAdapter(val arrayListVelo:ArrayList<Velo>, val ovcl : OnVeloClickListener)
+class VeloAdapter(val arrayListVelo:ArrayList<Velo>, val listener : (velo:Velo) -> Unit)
     : RecyclerView.Adapter<VeloAdapter.VeloViewHolder>() {
 
     class VeloViewHolder(val binding : RowLayoutVeloBinding)
@@ -23,16 +23,16 @@ class VeloAdapter(val arrayListVelo:ArrayList<Velo>, val ovcl : OnVeloClickListe
     override fun onBindViewHolder(holder: VeloViewHolder, position: Int) {
         val veloDisplay = arrayListVelo[position]
         holder.binding.velo = veloDisplay
+        holder.itemView.setOnClickListener { listener(veloDisplay) }
         Picasso.get().load(veloDisplay.imageUrl).into(holder.binding.imageView)
         holder.binding.imageViewVae.visibility =
             if(veloDisplay.vae) View.VISIBLE else View.GONE
-        holder.itemView.setOnClickListener { ovcl.onVeloClick(veloDisplay) }
     }
 
     override fun getItemCount(): Int = arrayListVelo.size
 
-    class OnVeloClickListener(val listener : (velo:Velo) -> Unit){
-        fun onVeloClick(velo: Velo) = listener(velo)
-    }
+    //class OnVeloClickListener(val listener : (velo:Velo) -> Unit){
+    //    fun onVeloClick(velo: Velo) = listener(velo)
+    //}
 
 }
