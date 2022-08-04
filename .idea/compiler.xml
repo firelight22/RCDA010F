@@ -23,6 +23,7 @@
       <module name="CoursAndroid.tprandomgenerator" target="11" />
       <module name="CoursAndroid.tprecyclerviewdog" target="11" />
       <module name="CoursAndroid.tpvraioufaux" target="11" />
+      <module name="CoursAndroid.webapi" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

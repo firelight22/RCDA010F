@@ -32,6 +32,7 @@
             <option value="$PROJECT_DIR$/tprandomgenerator" />
             <option value="$PROJECT_DIR$/tprecyclerviewdog" />
             <option value="$PROJECT_DIR$/tpvraioufaux" />
+            <option value="$PROJECT_DIR$/webapi" />
           </set>
         </option>
       </GradleProjectSettings>
